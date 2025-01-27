@@ -1,0 +1,256 @@
+Interview Questions:
+
+JS:
+0. Design Patterns
+1. ES6 features
+	The let keyword
+	The const keyword
+	Arrow Functions
+	For/of
+	Classes
+	Promises
+	Default Parameters
+	Function Rest Parameter
+	String.includes()
+	String.startsWith()
+	String.endsWith()
+	Array.from()
+	Array keys()
+	Array find()
+	Array findIndex()
+2. Objects
+	Shallow copy vs Deep copy
+	Object.freeze() vs Object.seal()
+	Optional chaining '?.' (https://javascript.info/optional-chaining)
+3. Function Declarations vs. Function Expressions
+3. Arrow functions have no “this” (https://javascript.info/object-methods#arrow-functions-have-no-this)
+	Arrow functions are special: they don’t have their “own” this. If we reference this from such a function, it’s taken from the outer “normal” function.
+3. closure
+4. hoisting
+5. Rest vs Spread operator
+5. Destructuring assignment
+	Array destructuring (https://javascript.info/destructuring-assignment#array-destructuring)
+	Object destructuring (https://javascript.info/destructuring-assignment#object-destructuring)
+6. Array prototypes: map, filter & reduce
+7. arrow functions
+8. Pure Functions in JavaScript
+9. Async - callback, promise & async/await (https://www.loginradius.com/blog/engineering/callback-vs-promises-vs-async-await/)
+	async ensures that the function returns a promise, and wraps non-promises in it.
+	The keyword await makes JavaScript wait until that promise settles and returns its result.
+	await literally suspends the function execution until the promise settles, and then resumes it with the promise result. That doesn’t cost any CPU resources, because the JavaScript engine can do other jobs in the meantime: execute other scripts, handle events, etc.
+
+	ES2017 introduced the async/await keywords that build on top of promises, allowing you to write asynchronous code that looks more like synchronous code and is more readable. Technically speaking, the async / await is syntactic sugar for promises.
+10. Fetch
+11. Scripts: async, defer
+12. TypeScript: A Static Type Checker
+13. What is web storage?
+14. What are the differences between undeclared and undefined variables
+15. Is JavaScript a compiled or interpreted language
+16. static
+17. Generator functions
+18. Promise.all() vs Promise.race()
+19. Web Workers
+
+React
+0. SOLID principles
+0. What is JSX?
+1. What is the virtual DOM?
+1. function vs class component
+2. What are the different phases of the component lifecycle?
+2. What are the lifecycle methods of React?
+2. Explain React state and props
+3. Hooks, Rules of Hooks
+4. Custom Hook
+4. Pure component
+5. Controlled vs Uncontrolled component
+5. What is prop drilling in React?
+6. Context - Ask more on it
+7. Error Boundaries
+8. Virtual and Shadow DOM
+9. Client side rendering and Server side rendering (CSR & SSR)
+10. Higher-Order Components
+11. Fragments
+12. Error Boundaries
+13. Babel
+14. What is React Router?
+15. How to perform automatic redirect after login?
+14. Name a few techniques to optimize React app performance.
+0. Lazy loading (Suspense and fallback) 
+1. Code splitting 
+
+
+
+Redux:
+1. Redux workflow
+2. Hooks in a React Redux App - useSelector, useDispatch
+3. connect() - The connect() function connects a React component to a Redux store.
+4. connect() Parameters
+	mapStateToProps?: (state, ownProps?) => Object
+		If a mapStateToProps function is specified, the new wrapper component will subscribe to Redux store updates. This means that any time the store is updated, mapStateToProps will be called.
+	mapDispatchToProps?: Object | (dispatch, ownProps?) => Object
+		If your mapDispatchToProps is declared as a function taking one parameter, it will be given the dispatch of your store.
+5. middlewares
+6. combineReducers 
+
+
+Node:
+What is the difference between fork() and spawn() methods in Node.js?
+What is the buffer class in Node.js?
+What is piping in Node.js?
+What are the different types of HTTP requests
+
+
+HTML5 
+1. Features
+2. <audio>, <video>
+3. LocalStorage vs SessionStorage
+5. HTTP Methods
+6. data-* Attributes
+7. target attribute : _blank
+8. <datalist>
+9. Web Worker
+Web Storage
+
+
+CSS
+0. Responsive Web Design - The Viewport
+1. Flexbox vs Grid
+2. vertically and horizontally centered
+	display: flex;
+	justify-content: center;
+	align-items: center;
+3. The position Property
+	static
+	relative
+	fixed
+	absolute
+	sticky
+4. Margin vs Padding
+5. CSS Preprocessors
+	Differences between SASS & LESS
+	Sass: Syntactically Awesome Style Sheet
+	LESS: Learner Style Sheets
+6. Media Queries
+7. display: none vs visibility: hidden
+8. CSS Selectors
+9. box-sizing: border-box;
+
+
+
+Jest:
+Can you explain what mock functions are? How are they created?
+What do you understand about snapshot testing in context with Jest?
+
+
+AWS:
+1. Explain what S3 is?
+	S3 stands for Simple Storage Service. You can use the S3 interface to store and retrieve any amount of data, at any time and from anywhere on the web.
+	
+2. What is EC2?
+	EC2, a Virtual Machine in the cloud on which you have OS-level control. You can run this cloud server whenever you want and can be used when you need to deploy your own servers in the cloud, similar to your on-premises servers, and when you want to have full control over the choice of hardware and the updates on the machine.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+How to improve react performance. 
+Jest tool 
+Code to remove duplicate items from array. 
+Web worker 
+Flux architecture 
+How to avoid re-rendering 
+Concept of redux 
+File structure for react 
+Component life cycle methods 
+CSS preprocessor 
+CSS frameworks 
+Difference between Typescript and JavaScript 
+SOLID principles of react 
+Client side rendering and Server side rendering (CSR & SSR) 
+Draw diagram for login and save account channel functionality ( Mostly how you will structure your component) 
+If login to dashboard, will we redirect to login screen if page is refreshed. 
+Debugging tools 
+One way data binding 
+Code coverage tools 
+What is the process that you will follow if you assign a new task and you don’t have any knowledge regarding that? 
+Lazy loading (Suspense and fallback) 
+Code splitting 
+How you will identify which component is taking more time to load? 
+Virtual and Shadow DOM 
+ES6 features 
+Coding standard in react 
+Context API 
+How to pass data between components 
+Why to use keys when creating list of components 
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+differences between class component and functional components in react
+what state management we used in react and explain why we use them
+differences between old react (before 16.8) and new react version (with hook)
+two most used lifecycle method in hooks
+explain useEffect
+what are the use of arguments for ueseEffect, how they work?
+explain useContext
+differences between SSR and CSR
+how to optimize SEO in CSR
+explain promises in javascript
+explain Async Await
+explain some es6 changes
+differences between merge and assign function
+explain differences of flexbox and grid
+how to overlap div on top of each other
+how to center a div horizontally and vertically using flex properties
+ability to use webflow
+explain parallex effect
+explain context api in react
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Snippets:
+1. Concate 2 arrays
+2. Remove duplicate from array
+3. return the number greater than five from defined array
+4. return each value of an array multiplied by 2
+5. improve call using async await
+6. 
+console.log(false == '0')
+console.log(false === '0')
+7. Reverse a string
+
+
+HTML - Overlap div
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>CSS Overlaying One DIV over Another DIV</title>
+<style> 
+    .container {
+        width: 200px;
+        height: 200px;
+        position: relative;
+        margin: 20px;
+    }
+    .bottom {
+        width: 100%;
+        height: 100%;            
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0.8;  /* for demo purpose  */
+    }
+    .top{
+		width: 100%;
+        height: 100%;
+		position: absolute;
+		margin: 20px; /* for demo purpose  */
+    }
+</style>
+</head>
+<body>
+    <div class="container">
+        <div class="bottom" style="background: red;"></div>
+        <div class="top" style="background: blue;"></div>
+    </div>
+</body>
+</html>

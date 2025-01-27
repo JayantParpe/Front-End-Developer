@@ -1,0 +1,32 @@
+1. Brief about your current ongoing project.
+2. Take 1 module from that and explain the logic implemented on it.
+3. How much do you have Next JS experience.
+4. Core principal of Next JS.
+5. Difference b/w page based routing and app based routing.
+6. How can we implement dynamic routing with Next JS.
+7. Types of rendering in Next JS.
+8. How do you define it is client side or server side.
+9. How Next JS handles code splitting.
+10. In react what is pure component.
+11. What is state-full and state-less component.
+12. What is the difference b/w virtual DOM and shadow DOM.
+13. What are react life cycle hooks, life cycle methods or class based and life cycle hooks or function based.
+14. How do you implement mount, update and unmount with functional components.
+15. What is useMemo in React.
+16. What is React.Memo
+17. What are error boundaries.
+18. How do you implement error boundaries and what are predefined for that.
+19. What are synthetic events is React JS.
+20. How do you implemented authentication in React.
+21. How do you validate user is logged in OR valid user or not.
+22. How do you use private protector routes in react with router. Is this is a part of react route?
+23. What is state management.
+24. What are core principals/design principals on which Redux built up on.
+25. What are the use case of Redux use.
+26. Explain the flow of data through Redux.
+27. What is event loop.
+28. What is a promise and how does a promise work.
+29. What is the difference b/w Promise and Async await.
+30. What is anonymous function.
+31. 0.1 + 0.2 == 0.3 console = Because of the limited precision of floating point numbers round-off errors can occur during calculations.
+32. What is data type of null. => Object
