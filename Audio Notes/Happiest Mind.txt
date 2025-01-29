@@ -1,15 +1,15 @@
-1. What do understand by class and id.
-2. By mistake added 2 same id, how HTML behave.
-3. 2 div with same id, document,getElementById targets which div.
-4. What do you understand by hoisting in JavaScript.
-5. What is the basic difference b/w var and let.
-6. What is closures in JavaScript.
-7. JavaScript in OOPS with example.
-8. What is Prototypes in JavaScript.
+1. What do you understand by class and id?
+2. By mistake, I added 2 the same id, how HTML behaves?
+3. 2 div with the same id, document,getElementById targets which div?
+4. What do you understand by hoisting in JavaScript?
+5. What is the basic difference b/w var and let keyword? 
+6. What are closures in JavaScript?
+7. Explain JavaScript in OOPS with an example.
+8. What are Prototypes in JavaScript?
 9. What are high order functions in JavaScript.
-10. What is callbacks in JavaScript.
+10. What are callbacks in JavaScript?
 11. What are promises
-12. Why promise introduces as same thing can be done with callback.
+12. Why is the promise introduced as the same thing can be done with a callback?
 13. There are 4 tasks, we have to do 1 by 1 how to do?
 14. What are filters and maps in JS.
 15. What is basic difference is map and reduce.
@@ -39,10 +39,6 @@
 39. If we don't give any doctype what will happen to document.
 
 
-Dear Raushan,
+useEffect(()=>{
 
-I am writing to confirm my availability for the interview on Saturday, 25th Jan 2025 at 04:00 PM.
-
-Best regards,
-Jayant Parpe
-
+}, [])
