@@ -1,0 +1,10 @@
+1. What is the use case of HTML? Why we need it?
+2. What is the use of HTML tag and HTML attribute and difference b/w them and what actually they do or what does it mean.
+3. What is void element in HTML?
+4. What are the features of HTML5?
+5. What are the difference b/w iframe and embed?
+6. What is accessibility in HTML?
+7. What is DOM?
+8. What is the relation b/w the DOM and DOM tree?
+9. Compile the application in JS fiddle example?
+10. 

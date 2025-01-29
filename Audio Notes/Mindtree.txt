@@ -1,0 +1,30 @@
+1. What is HTML5 new tags?
+2. What is HTML5 APIs?
+3. What is the difference b/w local storage and session storage?
+4. What is the difference b/w Canvas and SVG?
+5. How many ways we use CSS in our application?
+6. What is box model in CSS?
+7. What is opacity is CSS?
+8. Difference b/w display block and inline block?
+9. What are the pseudo classes in CSS?
+10. What is flex? What are major properties in flex?
+11. What is viewport height and width?
+12. How we achieve responsive design in CSS?
+13. What is better way to write CSS for better approach?
+14. What is bootstrap grid system?
+15. What is tailwind CSS?
+16. What are data types in JavaScript?
+17. What are inbuilt methods in Array?
+18. What is regular expression in JavaScript?
+19. What is closure in JavaScript? and write a example.
+20. What is JavaScript hoisting?
+21. What is the difference b/w var, let and const?
+22. How to flatten nested object output?
+23. How to flatten nested array output?
+24. What are hooks in React?
+25. What is the difference b/w useState and useReducer?
+26. For unit testing in react what we use and elaborate?
+27. What is used for SSR?
+28. What is prop drilling? What is disadvantage and how to fix?
+29. Use filter then use arrow to return value greater than asked from object?
+

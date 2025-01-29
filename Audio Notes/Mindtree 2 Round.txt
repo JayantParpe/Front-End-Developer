@@ -1,0 +1,27 @@
+1. What is the difference b/w tailwind and bootstrap?
+2. Have you worked with RWD?
+3. Have you worked on Vue.JS?
+4. To develop HTML pages what are the best practices and standards with seo?
+5. What is the used of semantic tags in HTML?
+6. What are meta tags?
+7. What are data attributes in HTML?
+8. What is picture tags?
+9. What are other tactics we use to optimize images for responsive layouts?
+10. What are storages in HTML?
+11. What are the use case of local storages and session storages?
+12. What are features of CSS pre processors?
+13. What are pseudo classes and pseudo selectors in CSS?
+14. What is CSS specificity?
+15. What is flexbox in CSS?
+16. What are closures in JavaScript?
+17. What is scope chaining?
+18. What is pure function?
+19. What is the difference b/w var, let and const?
+20. What are high order function? Explain with example?
+21. What are array function? Explain them?
+22. What is reduce function in Array?
+23. What is promise?
+24. What is the difference between promise and callback?
+25. What are the disadvantages of callback?
+26. What are different optimization use in JavaScript?
+27. In terms of HTML & CSS what kind of optimization we use?
