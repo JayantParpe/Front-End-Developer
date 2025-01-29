@@ -1,0 +1,26 @@
+1. What is Map (allocate a memory) and WeakMap in JavaScript?
+2. What is the use of Promises?
+3. When do you use async/await or promise?
+4. What is the use of mutation observor?
+5. What is the use of yield?
+6. What is generator function?
+7. How yield works, ++ operator?
+8. What is the best way to load the JavaScript files when there are multiple files and some import in the exist?
+9. Best way to do import?
+10. How lazy loading works?
+11. What is shadow DOM and what is Virtual DOM?
+12. What is tree shaking in React? How it will happen?
+13. How do shadow DOM works?
+14. What is encapsulations in React?
+15. Which is better functional or class component? Why?
+16. Is is possible to impplent redux thung or saga with the functional approach?
+17. What is redux toolkit and the middleware and how it works?
+18. How store works? 
+19. Where do wrap the store?
+20. What are build tools we use?
+21. When you want to migrate the images from local to stage than prod sever how do you configure the any webpack file?
+22. What is context api in react?
+23. Unit testing, jest?
+24. How to check the element is present of the DOM using jest?
+25. Fiter the array having the name with having skill will be JavaScript...
+

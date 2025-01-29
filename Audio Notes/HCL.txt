@@ -1,0 +1,13 @@
+1. Can you explain any one of project you handle? What are your roles and responsibilities?
+2. What is React? What are its features?
+3. What is components in React? What are different types of components?
+4. What is JSX? How does the browser reads it?
+5. What is custom hooks in react?
+6. What are the various vision of optimize react code?
+7. What is difference b/w useRef, createRef in React?
+8. What id Redux and where & why do we use in React?
+9. Increment and Decrement of Text size on click in React?
+10. Combine both array in a single array, after that sort the array in ascending order of ID.
+11. Filter the object which have student access is TRUE? Output will be array having student access is TRUE. without pre defined functions?
+12. Mention git command use in git commit/fetch.
+13. Find the index of object within the Array where the name of the book is four.  

@@ -1,0 +1,6 @@
+1. What are HOC and functional architucture? Please elaborate and explain it with example.
+2. Create a hoc component to resue the resuable table component
+3. What is functional component why its uses over the class component?
+4. What will be the benefits of using functional component dev vs prod?
+5. What are pre processors?
+6. Material UI using SCSS built , can affect the container on your custom resposive break point?

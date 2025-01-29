@@ -7,4 +7,38 @@
 7. What is DOM?
 8. What is the relation b/w the DOM and DOM tree?
 9. Compile the application in JS fiddle example?
-10. 
+10. Relationship b/w the html body and h1 & h2 tag in DOM tree?
+11. Explain DOM methods or what are methods in DOM?
+12. How do you fetch the element context in HTML DOM?
+13. Difference b/w class and id?
+14. What is CSS?
+15. What are the differnt ways to use the CSS in HTML5?
+16. How can you define external file CSS in HTML?
+17. What is box model?
+18. What is important in CSS?
+19. Features of pre processors in CSS?
+20. What is mixins?
+21. What is flex? - Center an element.
+22. What is grid? - Center an element.
+23. What is JavaScript and what is ES6?
+24. What are the features introduced in ES6?
+25. What is an arrow function?
+26. What are the different ways to create a function in JavaScript?
+27. Difference b/w let, var and const.
+28. How to create an event in JavaScript? addEvenetListner use?
+29. What is Promise?
+30. What is Pyramid of DOM in JavaScript? in Promise.
+31. What are the methods in Promise?
+32. Promise.raise, Promise.any?
+33. What is async await?
+34. What is callback?
+35. How to create an Object using a function?
+36. const change in object?
+37. How to add one more property to Object?
+38. How to get the length/depth of the Object?
+39. What is high order function?
+40. Write a function for the promise method. async await and try catch promise completely?
+
+
+
+

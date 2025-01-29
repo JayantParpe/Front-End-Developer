@@ -1,0 +1,5 @@
+1. What is ES6 and its concept?
+2. What is string interpolation?
+3. Declare a var with number?
+4. Prepare a snippet that count the each character of string how many times it is present in it.
+5. 

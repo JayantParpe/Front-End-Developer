@@ -1,0 +1,17 @@
+1. What are components in React and what are class components and functional components?
+2. What is react hooks? Give an brief example?
+3. What is useMemo? Explain with ann example.
+4. What is context API and redux?
+5. What is despatcher in redux?
+6. What is prop drilling?
+7. How to you do the testing in React?
+8. What will be your best approach to fetch the data from API in react? Give an example.
+9. In React component how it differs from another component?
+10. What is closure?
+11. What is == and ===?
+12. What are preprocessors?
+13. Diff b/w less and sass?
+14. What is typescript? Any advantage?
+15. What is the advantage of using the bootstrap?
+16. What is source map?
+17. What is skeleton loader? 

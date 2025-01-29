@@ -1,0 +1,18 @@
+1. Explain the entire flow for the login and authentication in React? Explain scenarios in brief?
+2. What are the roles of JWT tokens?
+3. What happen when token gets expired and how user maintain the login? So that user having an seamless experience?
+4. Why we use Memomization in React?
+5. What are the techniques uses in Memozization, what problems we face what are their principles?
+6. If we are reutilising the value with memozization then why we don't use cache?
+7. Simple break the array without using loop, reduce not using any array methods, print array in console 1 by 1.
+8. What is hoisting?
+9. What is closure?
+10. What is recurssion function?
+11. 
+
+function printArray (arr, index = 0){
+	if(index < arr.length){
+		console.log(arr[index]);
+		printArray(arr, index + 1);
+	}
+}

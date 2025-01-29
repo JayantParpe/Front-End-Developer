@@ -1,0 +1,18 @@
+1. What is IIFI?
+2. What is hoisting in JavaScript?
+3. What is function binding in JavaScript? What is bind? What is the behaviour of the bind?
+4. What is this keyword in JavaScript?
+5. Difference b/w methods and functions?
+6. Difference b/w call, bind, apply?
+7. What is the purpose of the inbuilt function?
+8. function name person and variable name with value abc and I have a function get name and typing this.name and outof this person function we are creating an object of person name and then calling the method what is the output?
+9. What is constructor?
+10. What is the difference b/w the named function and arrow function?
+11. What is temporal dead zone?
+12. console b/w settimeout and promise timing?
+13. What is virtual DOM in react? What is the purpose of creating?
+14. What is difference b/w useState and Props?
+15. What is the lifecycle hooks in React?
+16. RXJS?
+17. Execution Process of Redux?
+18. Write a program of revering the string.
