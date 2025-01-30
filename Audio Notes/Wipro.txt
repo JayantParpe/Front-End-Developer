@@ -7,6 +7,7 @@
 7. Types of rendering in Next JS.
 8. How do you define it is client side or server side.
 9. How Next JS handles code splitting.
+
 10. In react what is pure component.
 11. What is state-full and state-less component.
 12. What is the difference b/w virtual DOM and shadow DOM.

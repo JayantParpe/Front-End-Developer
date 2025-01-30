@@ -2,6 +2,7 @@
 2. What is HTML5 APIs?
 3. What is the difference b/w local storage and session storage?
 4. What is the difference b/w Canvas and SVG?
+
 5. How many ways we use CSS in our application?
 6. What is box model in CSS?
 7. What is opacity is CSS?
@@ -13,6 +14,7 @@
 13. What is better way to write CSS for better approach?
 14. What is bootstrap grid system?
 15. What is tailwind CSS?
+
 16. What are data types in JavaScript?
 17. What are inbuilt methods in Array?
 18. What is regular expression in JavaScript?
@@ -21,6 +23,7 @@
 21. What is the difference b/w var, let and const?
 22. How to flatten nested object output?
 23. How to flatten nested array output?
+
 24. What are hooks in React?
 25. What is the difference b/w useState and useReducer?
 26. For unit testing in react what we use and elaborate?

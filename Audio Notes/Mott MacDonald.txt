@@ -7,11 +7,13 @@
 7. How to you do the testing in React?
 8. What will be your best approach to fetch the data from API in react? Give an example.
 9. In React component how it differs from another component?
-10. What is closure?
-11. What is == and ===?
-12. What are preprocessors?
-13. Diff b/w less and sass?
-14. What is typescript? Any advantage?
-15. What is the advantage of using the bootstrap?
-16. What is source map?
-17. What is skeleton loader? 
+10. What is skeleton loader? 
+
+11. What is closure?
+12. What is == and ===?
+
+13. What are preprocessors?
+14. Diff b/w less and sass?
+15. What is typescript? Any advantage?
+16. What is the advantage of using the bootstrap?
+17. What is source map?

@@ -10,6 +10,7 @@
 10. What is the difference b/w the named function and arrow function?
 11. What is temporal dead zone?
 12. console b/w settimeout and promise timing?
+
 13. What is virtual DOM in react? What is the purpose of creating?
 14. What is difference b/w useState and Props?
 15. What is the lifecycle hooks in React?

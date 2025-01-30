@@ -8,6 +8,7 @@
 8. What is the best way to load the JavaScript files when there are multiple files and some import in the exist?
 9. Best way to do import?
 10. How lazy loading works?
+
 11. What is shadow DOM and what is Virtual DOM?
 12. What is tree shaking in React? How it will happen?
 13. How do shadow DOM works?

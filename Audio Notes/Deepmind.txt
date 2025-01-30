@@ -11,6 +11,7 @@
 11. Explain DOM methods or what are methods in DOM?
 12. How do you fetch the element context in HTML DOM?
 13. Difference b/w class and id?
+
 14. What is CSS?
 15. What are the differnt ways to use the CSS in HTML5?
 16. How can you define external file CSS in HTML?
@@ -20,6 +21,7 @@
 20. What is mixins?
 21. What is flex? - Center an element.
 22. What is grid? - Center an element.
+
 23. What is JavaScript and what is ES6?
 24. What are the features introduced in ES6?
 25. What is an arrow function?

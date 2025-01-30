@@ -1,5 +1,6 @@
 1. What is the difference b/w tailwind and bootstrap?
 2. Have you worked with RWD?
+
 3. Have you worked on Vue.JS?
 4. To develop HTML pages what are the best practices and standards with seo?
 5. What is the used of semantic tags in HTML?
@@ -9,10 +10,13 @@
 9. What are other tactics we use to optimize images for responsive layouts?
 10. What are storages in HTML?
 11. What are the use case of local storages and session storages?
+
 12. What are features of CSS pre processors?
 13. What are pseudo classes and pseudo selectors in CSS?
 14. What is CSS specificity?
 15. What is flexbox in CSS?
+
+
 16. What are closures in JavaScript?
 17. What is scope chaining?
 18. What is pure function?

@@ -5,6 +5,7 @@
 5. What are the techniques uses in Memozization, what problems we face what are their principles?
 6. If we are reutilising the value with memozization then why we don't use cache?
 7. Simple break the array without using loop, reduce not using any array methods, print array in console 1 by 1.
+
 8. What is hoisting?
 9. What is closure?
 10. What is recurssion function?

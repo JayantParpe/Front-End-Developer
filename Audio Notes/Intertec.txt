@@ -1,6 +1,7 @@
 1. What are the techniques you providing the estimations.
 2. How do you managing the sytemation?
 3. On what basis you give estimation, how you check the complexity of the screen?
+
 4. Tell me the some good engineering practices that we can apply while creating a page in the React?
 5. On performance basis how we decide this component will be best?
 6. What is the lazy loading in React?

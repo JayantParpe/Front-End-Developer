@@ -3,6 +3,7 @@
 3. Console questions 
 4. What is destructuring?
 5. What is setTimeout and setInterval?
+
 6. What is useEffect?
 7. What is states and props?
 8. What is fetch and axios?
@@ -10,6 +11,7 @@
 10. What is useMemo?
 11. Where we use React.Memo?
 12. Given an api, and fetch title image and rating of the product?
+
 13. Add active class & style in JavaScript in react and JavaScript by select an list of element?
 14. Initially in each data need to add one more key, once click this array item.
 15. How to add new key to object?

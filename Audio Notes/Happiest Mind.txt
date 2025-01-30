@@ -1,5 +1,6 @@
 1. What do you understand by class and id?
 2. By mistake, I added 2 the same id, how HTML behaves?
+
 3. 2 div with the same id, document,getElementById targets which div?
 4. What do you understand by hoisting in JavaScript?
 5. What is the basic difference b/w var and let keyword? 
@@ -18,6 +19,7 @@
 18. Make a copy of an array.
 19. What is spread operators.
 20. By cloning a spread array A to array B, by changing the value of A array the value B array is also changes, how to overcome this problem and why is behave like that.
+
 21. What is useEffect in react.
 22. What dependency is passed in useEffect.
 23. If we pass an object to useEffect how does it behave.
@@ -31,6 +33,7 @@
 31. We have 1 parent component and inside 1 child called A and inside A we have another child B. Variables are passed from Parent to A and B. In parent we are changing values used in child B but not used in child A, what is behavior, will A re-render and B re-render or both will re-render. vice versa.
 32. Difference b/w useContext and Redux Toolkit.
 33. What is Redux.
+
 34. Positions in CSS.
 35. What is display flex.
 36. How to middle a div center using flex.
