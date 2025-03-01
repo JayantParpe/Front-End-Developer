@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- General styles, not used by all email clients -->
+    <style type="text/css" media="all">
+        a {
+            text-decoration: none;
+            color: #0088cc;
+        }
+
+        hr {
+            border-top: 1px solid #999;
+        }
+    </style>
+</head>
+
+<!-- KEEP THE LAYOUT SIMPLE: THOSE ARE SERVICE MESSAGES. -->
+
+<body style="margin: 0; padding: 0; border:50px solid #fff">
+    <!-- Top title with dark background -->
+    <table style="width: 100%;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="padding: 20px; text-align: center; font-family: sans-serif; color: #fff; font-size: 28px">
+                <a href="https://www.alphacoach.app">
+                    <span><img src="https://staging-4854-alphacoachapp.wpcomstaging.com/wp-content/uploads/2021/10/alpha-logo.png" style="width: 150px;" /></span>
+                </a>
+            </td>
+        </tr>
+    </table>
+    <!-- Top title with dark background -->
+    <table style="background-color: #000; width: 100%; border-radius: 24px;" cellspacing="0" cellpadding="0">
+        <tr>
+            <td style="padding: 15px; text-align: center; font-family: sans-serif; color: #fff; font-size: 20px">
+                {blog_title}
+            </td>
+        </tr>
+    </table>
+
+    <!-- Main table 100% wide with background color #eee -->
+    <table style="background-color: #fff; width: 100%;">
+        <tr>
+            <td align="center" style="padding: 15px;">
+
+                <!-- Content table with backgdound color #fff, width 500px -->
+                <table style="background-color: #fff; max-width: 600px; width: 100%;">
+                    <tr>
+                        <td style="padding: 15px; color: #000; font-size: 16px; font-family: sans-serif">
+                            <!-- The "message" tag below is replaced with one of confirmation, welcome or goodbye messages -->
+                            <!-- Messages content can be configured on Newsletter List Building panels -->
+
+                            {message}
+
+                            <!--hr-->
+                            <!-- Signature if not already added to single messages (surround with <p>) -->
+                            <p style="border-top: 1px solid gray; padding: 25px 0; margin: 10px 0;">
+                                <small>
+                                    <a href="{blog_url}" style="text-decoration: none; color: #238AEA; display: inline-block; vertical-align: top; font-size: 16px; line-height: 20px;">{blog_url}</a><br><br>
+                                    {company_name}<br><br>
+                                    {company_address}
+                                </small>
+                            </p>
+
+
+                        </td>
+                    </tr>
+                </table>
+
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>

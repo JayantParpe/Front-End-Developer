@@ -17,3 +17,53 @@ function printArray (arr, index = 0){
 		printArray(arr, index + 1);
 	}
 }
+
+Event loop in javascript?
+
+The event loop is a fundamental concept in JavaScript that allows for asynchronous programming. It is responsible for handling and executing multiple operations, such as I/O operations, timers, and user interactions, without blocking the main thread. The event loop enables JavaScript to be non-blocking and single-threaded, allowing it to perform asynchronous tasks efficiently.
+
+How the Event Loop Works
+Call Stack:
+
+The call stack is a data structure that keeps track of the execution context of functions. When a function is called, it is pushed onto the call stack. When the function execution is complete, it is popped off the stack.
+Web APIs:
+
+Web APIs are provided by the browser (or Node.js) and include functionalities like setTimeout, DOM events, HTTP requests, etc. When an asynchronous operation is called, it is handled by the Web APIs.
+Callback Queue (Task Queue):
+
+The callback queue is a queue that holds the callbacks of asynchronous operations. When an asynchronous operation completes, its callback is pushed onto the callback queue.
+Event Loop:
+
+The event loop continuously checks the call stack and the callback queue. If the call stack is empty, the event loop pushes the first callback from the callback queue onto the call stack for execution.
+
+
+===
+
+what are different tasks involved in the event loop?
+
+
+Types of Tasks in the Event Loop
+💡 Microtasks (Higher Priority)
+
+These are executed immediately after the current execution context and before any other tasks (even if setTimeout is 0ms).
+Stored in the Microtask Queue.
+Examples:
+Promises (.then(), .catch(), .finally())
+process.nextTick() (Node.js only)
+MutationObserver (DOM API)
+💡 Macrotasks (Lower Priority)
+
+Also called "Tasks", these are scheduled in the Task Queue and executed after all Microtasks are completed.
+Examples:
+setTimeout()
+setInterval()
+setImmediate() (Node.js only)
+I/O operations (file system, network requests)
+Message Channel events
+
+
+Execution Order
+Execute the current function in the Call Stack.
+Process all Microtasks in the Microtask Queue.
+Pick the first Macrotask from the Task Queue and execute it.
+Repeat Steps 2 & 3 (event loop keeps running).
