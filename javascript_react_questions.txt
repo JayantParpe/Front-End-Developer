@@ -1,0 +1,96 @@
+1.	How to improve react performance.
+2.	Jest tool – unit test cases (If function having third party dependency how you write unit test cases for this. Will you use mock/spi)
+3.	Code to remove duplicate items from array.
+4.	Web worker
+5.	Flux architecture
+6.	How to avoid re-rendering
+7.	Concept of redux
+8.	File structure for react
+9.	Explain life cycle methods of React components
+10.	What are Higher Order Components(HOC)
+11.	CSS preprocessor
+12.	CSS frameworks
+13.	Difference between Typescript and JavaScript
+14.	SOLID principles of react
+15.	Client side rendering and Server side rendering (CSR & SSR)
+16.	Debugging tools
+17.	One way data binding
+18.	Code coverage tools
+19.	Lazy loading (Suspense and fallback)
+20.	Code splitting
+21.	How you will identify which component is taking more time to load?
+22.	Virtual and Shadow DOM
+23.	ES6 features
+24.	Coding standard in react
+25.	Context API
+26.	How to pass data between components
+27.	Why to use keys when creating list of components
+28. Shallow copy vs Deep copy
+
+28.	let str = "Welcome to this TCS Drive!";
+"out put : "emocleW ot siht SCT !evirD"
+str.split(' ').map((e) => e.split('').reverse().join('')).join(' ');
+
+29. Reverse string:
+const a = 'sachin';
+a.split('').reverse().join('')
+
+30.
+const a = [1,2];
+const b = [3,4];
+// output: [1,2,3,4]
+
+
+31.
+const arr = [1, 2, 3];
+
+const sum = (x, y) => x + y;
+arr.reduce(sum, 0); // 6
+
+32.
+const nums = [2, 4, 6, 8, 1, 3, 5, 7];
+
+Math.max(...nums); // 8
+Math.min(...nums); // 1
+
+
+29.	Write a function to remove duplicate and sort
+const a = [9,4,1,3,2,5,3,1,5,6,7,8,1];
+
+// Output: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+[...new Set(a.sort((b, c) => b - c))]
+
+[...new Set(a.sort((b, c) => c - b))]
+// Output: [9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+34.	const items = [
+{ id: 1, name: 'a' },
+{ id: 2, name: 'b' },
+{ id: 3, name: 'c' },
+{ id: 1, name: 'd' },
+{ id: 3, name: 'f' },
+{ id: 1, name: 'a' },
+{ id: 3, name: 'c' },
+];
+
+/* 
+expected result:
+[
+{ id: 1, names: ['a', 'd']},
+{ id: 2, names: ['b']},
+{ id: 3, names: ['c', 'f']}
+]
+*/
+
+35. merge two arrays and sort accordingly with unique numbers only
+const arr1 = [5, 2, [3], 4, 1, ‘test’, { a:1 }];
+const arr2 = [6, 5, 1, ‘test’];
+// expected result: [1, 2, 3, 4, 5, 6]
+
+36.
+(function(x) {
+    return (function(y) {
+        console.log(x);
+    })(2)
+})(1);
+
